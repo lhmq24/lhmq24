@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning I.T at CTU and taking an internship at UTA Solutions.
   Contact:
 - My email: lhmquan.dev@gmail.com
--- My porfolio: 
+- My porfolio: 
     * https://lhmquan.id.vn/
     * https://lhmquan.qzz.io/ 
 <!---
